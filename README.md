@@ -30,7 +30,7 @@ But I've made some Changes **like**
 * add hover animation on the active navigation header.
 
 
-##app
+## app
 Here is where the functionality happens. There is three things that this file primarily achieves
 * dynamically building out the navigation
 * loop through the number of implemented sections and generate an area in the header for each one
