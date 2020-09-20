@@ -2,6 +2,14 @@
 This project is for Udacity's **Front End Front End Nanodegree** program. 
 HTML and CSS starter code provided by *Udacity*.
 
+## Table of Contents
+
+* [Description](#Description)
+* [Index.html](#Index)
+* [Styles.css](#Styles)
+* [App.js](#app)
+* [view project](#To view project)
+
 ### Description
 
 This is a basic landing page :
@@ -21,6 +29,14 @@ But I've made some Changes **like**
 * add Style to **To Top Button**.
 * add hover animation on the active navigation header.
 
+
+##app
+Here is where the functionality happens. There is three things that this file primarily achieves
+* dynamically building out the navigation
+* loop through the number of implemented sections and generate an area in the header for each one
+* allowing the header to show which section is currently "active" in the page
+* listens for clicks on the navigation and then scrolls the page to the appropriate section header
+* Scrolling to the top of the page after scrolling down when pressing the **To Top** button
 
 ### To view project
 The project is published on GitHub Pages. To view, 
