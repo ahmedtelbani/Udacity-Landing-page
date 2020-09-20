@@ -8,7 +8,7 @@ HTML and CSS starter code provided by *Udacity*.
 * [Index.html](#Index)
 * [Styles.css](#Styles)
 * [App.js](#app)
-* [view project](#To view project)
+* [view project](#Running)
 
 ### Description
 
@@ -38,6 +38,6 @@ Here is where the functionality happens. There is three things that this file pr
 * listens for clicks on the navigation and then scrolls the page to the appropriate section header
 * Scrolling to the top of the page after scrolling down when pressing the **To Top** button
 
-### To view project
+### Running
 The project is published on GitHub Pages. To view, 
 click on this link: [link to project](https://htmlpreview.github.io/?https://github.com/ahmedtelbani/Udacity-Landing-page/blob/master/index.html)
