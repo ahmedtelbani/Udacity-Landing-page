@@ -11,4 +11,4 @@ This is a basic landing page which:
 
 ### To view project
 
-The project is published on GitHub Pages. To view, click on this link: [link to project](https://ahmedtelbani.github.io//Udacity-Landing-page/)
+The project is published on GitHub Pages. To view, click on this link: [link to project](https://htmlpreview.github.io/?https://github.com/ahmedtelbani/Udacity-Landing-page/blob/master/index.html)
